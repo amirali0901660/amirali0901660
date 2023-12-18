@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @amirali0901660
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning AI and deep learning
-
-- this repositories contain simple projects(based on other bigger projects) i create  in my journey toward learning Ai and deep learning
+this code utilizes REBEL model for relation extraction from a simple code and creates triplet tokens wich are knowledge base 
 
 <!---
 amirali0901660/amirali0901660 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
